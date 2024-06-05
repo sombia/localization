@@ -1,8 +1,6 @@
 {
-  "translation": {
-    "login": {
-      "login": "Log in",
-      "register": "No account? Create one!"
-    }
+  "login": {
+    "login": "Log in",
+    "register": "No account? Create one!"
   }
 }
